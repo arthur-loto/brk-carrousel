@@ -9,3 +9,4 @@ Commandes à faire dans le dossier (en node 16!)
 
 Par défaut Storybook est configuré pour rouler sur le port 6006
 http://localhost:6006/
+
